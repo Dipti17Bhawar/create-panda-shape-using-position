@@ -94,3 +94,14 @@
     top:280px;
     left:670px;
 }
+.stomach-circle {
+  position: absolute;
+  background-color: white;
+  height:265px;
+  width:280px;
+  top:360px;
+  left:620px;
+  border-radius: 30% 30% 50% 50%;
+  border: 2px solid black;
+}
+
