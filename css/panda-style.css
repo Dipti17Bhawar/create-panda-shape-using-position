@@ -9,3 +9,24 @@
   top:30px;
 
 }
+.left-ear {
+     position: absolute;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    border-radius:50%;
+    top:10px;
+    border-top: 2px solid black;
+    left: 600px;
+}
+
+.right-ear {
+     position: absolute;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    border-radius:50%;
+    top:10px;
+    border-top: 2px solid black;
+    right:650px;
+}
