@@ -49,3 +49,21 @@
     top:110px;
     right: 710px;
 }
+.left-pupil{
+    width: 20px;
+    height: 20px;
+    background-color:white;
+    border-radius: 50%;
+    position: absolute;
+    top:130px;
+    left:690px;
+}
+.right-pupil{
+    width: 20px;
+    height: 20px;
+    background-color:white;
+    border-radius: 50%;
+    position: absolute;
+    top:130px;
+    right:730px;
+}
