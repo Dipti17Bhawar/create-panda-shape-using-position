@@ -67,3 +67,12 @@
     top:130px;
     right:730px;
 }
+.nose {
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    background-color: black;
+    border-radius: 0 0 100% 100%;
+    top:190px;
+    left:730px;
+}
