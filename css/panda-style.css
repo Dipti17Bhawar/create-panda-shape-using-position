@@ -85,3 +85,12 @@
     top: 210px;
     left: 725px;
 }
+.blackline{
+    position: absolute;
+    width:180px;
+    height: 150px;
+    background-color: black;
+    border-radius: 0 0 100% 100%;
+    top:280px;
+    left:670px;
+}
