@@ -55,7 +55,7 @@
     background-color:white;
     border-radius: 50%;
     position: absolute;
-    top:130px;
+    top:140px;
     left:690px;
 }
 .right-pupil{
@@ -64,7 +64,7 @@
     background-color:white;
     border-radius: 50%;
     position: absolute;
-    top:130px;
+    top:140px;
     right:730px;
 }
 .nose {
