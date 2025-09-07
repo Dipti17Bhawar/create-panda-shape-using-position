@@ -30,3 +30,22 @@
     border-top: 2px solid black;
     right:650px;
 }
+.left-eye {
+    position: absolute;
+    width: 60px;
+    height: 70px;
+    background-color: black;
+    border-radius: 50% 60% 40% 40%;
+    top:110px;
+    left: 670px;
+}
+
+.right-eye {
+    position: absolute;
+    width: 60px;
+    height: 70px;
+    background-color: black;
+    border-radius: 50% 60% 40% 40%;
+    top:110px;
+    right: 710px;
+}
